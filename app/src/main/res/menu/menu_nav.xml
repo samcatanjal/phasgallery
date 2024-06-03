@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_ghosts"
+        android:icon="@drawable/ghost"
+        android:title="Ghosts" />
+    <item
+        android:id="@+id/navigation_cursed_possessions"
+        android:icon="@drawable/possessions"
+        android:title="Cursed Possessions" />
+    <item
+        android:id="@+id/navigation_equipment"
+        android:icon="@drawable/equipment"
+        android:title="Equipment" />
+</menu>
